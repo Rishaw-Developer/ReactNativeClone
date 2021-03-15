@@ -1,4 +1,11 @@
-# Getting Started with Create React App
+# ReactNativeClone
+This is a project which a clone of [reactnative.dev](reactnative.dev) site. It's not a fully clone of react native site. You can go and checkout my app now.
+
+## My app link
+
+My app link is [MyappLink](https://native-clone.web.app/).
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
