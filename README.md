@@ -1,5 +1,5 @@
 # ReactNativeClone
-This is a project which a clone of [reactnative.dev](reactnative.dev) site. It's not a fully clone of react native site. You can go and checkout my app now.
+This is a project which a clone of [reactnative.dev](https://reactnative.dev/) site. It's not a fully clone of react native site. You can go and checkout my app now.
 
 ## My app link
 
